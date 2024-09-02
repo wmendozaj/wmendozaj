@@ -1,8 +1,6 @@
-<p align="center">
 # 👋🏻 Hi, I'm Wendy Mendoza!
 
 I'm a **Senior Software Engineer** with a passion for creating amazing digital experiences. With over **7 years of experience** in mobile and web development, especially in **React** and **React Native**, I love working in teams, learning new things, and finding creative solutions to complex challenges.
-</p>
 
 ## 👩🏻‍💻 A Little About Me
 
