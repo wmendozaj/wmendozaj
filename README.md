@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hello, I'm Wendy Mendoza!
 
-<!--
-**wmendozaj/wmendozaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Senior Software Engineer** with a passion for creating amazing digital experiences. With over **7 years of experience** in mobile and web development, especially in **React Native**, I love working in teams, learning new things, and finding creative solutions to complex challenges.
 
-Here are some ideas to get you started:
+## 🚀 A Little About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 Based in the vibrant Mexico City.
+- 🎨 Specializing in **user-centered design** and building scalable products.
+- 🧑‍🏫 **Mentor** and technical leader, committed to fostering agile and diverse teams.
+- 🌱 Always learning: currently diving into **Artificial Intelligence** and **Large Language Models (LLMs)**.
+
+## 🛠️ Favorite Tools and Technologies
+
+- **Frontend:** React Native, Angular, JavaScript, TypeScript, Flutter.
+- **Backend and DevOps:** Python, NodeJS, SQL/NoSQL, Kubernetes.
+- **Collaboration:** Git, JIRA, OpenAI, Grafana.
+
+## ✨ Beyond the Code
+
+I’m passionate about building meaningful things and actively collaborate with teams to solve complex problems with simple solutions. I enjoy continuous learning and am always looking for ways to grow and improve, both professionally and personally.
+
+## 🌐 Let’s Connect!
+
+- 💌 [Email](mailto:wmendozaj@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/wmendozaj/)
